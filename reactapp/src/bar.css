@@ -1,0 +1,50 @@
+body{
+    justify-content: center;
+    justify-items: center;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+.header{
+    text-align: center;
+    padding: 40px;
+    position: relative;
+    left: -6pc;
+    width: 20%;
+    top: -20px;
+    height: 40pc;
+    background-color: blue;
+    color:  aliceblue;
+}
+.header a{
+    text-decoration: none;
+    color:  aliceblue;
+}
+.header a button{
+    height: 3pc;
+    width: 10pc;
+    border: hidden;
+    background-color: transparent;
+    color: aliceblue;
+}
+.header a button:hover{
+    color: black;
+    background-color: whitesmoke;
+    
+}
+.body{
+   background-color: whitesmoke;
+    height: 45pc;
+    justify-items: center;
+    justify-content: center;
+    width: 63pc;
+    padding: 30px;
+    position: relative;
+    top: -45.6pc;
+    left: 170px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.header h1{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
