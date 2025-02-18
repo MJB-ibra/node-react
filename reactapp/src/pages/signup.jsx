@@ -30,7 +30,7 @@ else{
 
   } catch (error) {
     console.log('error inserting:',error)
-    alert('error!')
+    alert('Error on Server!')
   }
 }
     return (
